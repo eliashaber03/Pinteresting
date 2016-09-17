@@ -2,6 +2,6 @@
 
 This is the first milestone towards building my startup prototype.
 
-#stay Tuned
+#Stay Tuned
 
 by [Elias Haber](https://github.com/eliashaber03/Pinteresting)
