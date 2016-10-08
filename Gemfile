@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
  ruby '2.2.4'
 
 
@@ -22,6 +22,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'bootstrap-sass'
+
+gem 'devise',  '~> 4.0.0'
 
 group :development, :test do
      gem 'sqlite3'
